@@ -65,6 +65,8 @@ Jason Brownlee写的 [用Keras和卷计算机网络识别手写数字](http://ma
 
 ## 数据集
 
+[Kaggle](https://www.kaggle.com/)
+
 [MNIST](http://yann.lecun.com/exdb/mnist/)是一份手写数字识别数据集（60000张28x28的灰度图）。它适合用来测试本机上安装的Keras是否成功。
 
 [notMNIST](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html)（异形字体的字母A-J）
