@@ -52,5 +52,16 @@ Jason Brownlee写的 [用Keras和卷计算机网络识别手写数字](http://ma
 
 ### Tensorflow
 
+比Keras更底层、更灵活，能直接对各个多维数组参数做优化。
+
+相关资源：
+
+* 官方教程[Tensorflow Tutorial](https://www.tensorflow.org/versions/master/tutorials/index.html)
+* Martin Görner 的[《不读博士也能学习Tensorflow和深度学习》](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+* Aymeric Damien 写的[《Tensorflow入门教程和示例》](https://github.com/aymericdamien/TensorFlow-Examples/)
+* Nathan Lintz 写的[《Tensorflow框架简单教程》](https://github.com/nlintz/TensorFlow-Tutorials)
+
+另外，[TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard)是一款在训练过程中调试和查看数据非常方便的工具。
+
 
 
