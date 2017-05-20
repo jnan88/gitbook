@@ -4,6 +4,7 @@
 * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) 用于数字和图像识别
 * [Keras.js Demo](https://transcranial.github.io/keras-js/) 在浏览器中可视化展现和使用网络模型
 * [Anaconda环境](https://www.continuum.io/downloads) 
+* [Keras](https://keras.io/#installation)
 
 
 
