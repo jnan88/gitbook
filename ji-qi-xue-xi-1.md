@@ -87,7 +87,6 @@ Jason Brownlee写的 [用Keras和卷计算机网络识别手写数字](http://ma
   * [Kaggle超声神经提取比赛的深度学习教程](https://github.com/jocicmarko/ultrasound-nerve-segmentation)，Keras实现
 * [一种艺术风格的神经算法](https://arxiv.org/abs/1508.06576) ： [神经网络实现风格转换和涂鸦](https://github.com/titu1994/Neural-Style-Transfer)，作者是Somshubra Majumdar
 
-* 
 * [图像分割领域的CNN进化史：从 R-CNN 到蒙板 R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)，作者是Dhruv Parthasarathy
 
 
